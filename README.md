@@ -75,15 +75,17 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/zebibu-alemayew/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zebibu" height="30" width="40" /></a>
-<a href="https://wa.me/393792135778" target="blank">
+  <a href="https://www.linkedin.com/in/zebibu-alemayew/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zebibu" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/393792135778" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="zebibu" height="30" width="40" />
   </a>
-   <a href="https://t.me/Zebib446" target="blank">
+  <a href="https://t.me/Zebib446" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="zebibu" height="30" width="40" />
-
   </a>
 </p>
+
 
 ---
 
